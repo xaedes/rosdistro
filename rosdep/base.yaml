@@ -1843,7 +1843,6 @@ libgazebo7-dev:
 libgazebo9-dev:
   debian:
     buster: [libgazebo9-dev]
-    stretch: [libgazebo9-dev]
   gentoo: [sci-electronics/gazebo]
   ubuntu:
     artful: [libgazebo9-dev]
